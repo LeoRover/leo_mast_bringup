@@ -6,18 +6,20 @@ joints:
         id: 1
         type: dynamixel
         neutral: 512
-        min_angle: -60
-        max_angle: 60
+        min_angle: -90
+        max_angle: 90
         max_speed: 20
     mast_2_joint:
         id: 2
         type: dynamixel
-        min_angle: -119
-        max_angle: 126
+        neutral: 512
+        min_angle: -180
+        max_angle: 180
         max_speed: 90
     mast_3_joint: 
         id: 3
         type: dynamixel
-        min_angle: -139
-        max_angle: 136
+        neutral: 512
+        min_angle: -90
+        max_angle: 90
         max_speed: 90
