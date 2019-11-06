@@ -8,7 +8,7 @@ joints:
         neutral: 512
         min_angle: -90
         max_angle: 90
-        max_speed: 20
+        max_speed: 90
     mast_2_joint:
         id: 2
         type: dynamixel
