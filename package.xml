@@ -4,7 +4,8 @@
   <version>0.0.0</version>
   <description>The leo_mast_bringup package</description>
 
-  <maintainer email="blazej@turtlerover.com">Błażej Sowa</maintainer>
+  <maintainer email="support@fictionlab.pl">Fictionlab</maintainer>
+  <author email="blazej@fictionlab.pl">Błażej Sowa</author>
 
   <license>MIT</license>
 
